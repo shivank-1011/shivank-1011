@@ -1,7 +1,8 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
-<div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 60%  /></div>
+<!-- <div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 60%  /></div> -->
+
 <h3 align="center">
   <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px>
   Hi, I'm Shivank Gupta
@@ -29,5 +30,28 @@
   </div>
 
 ---
+### Github Profile Summary Card:
 
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivank-1011&theme=github_dark)
+  
+</div>
+
+---
+### Github Stats:
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shivank-1011&theme=black-ice&background=000000&border=00FFFF&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=AAAAAA)](https://git.io/streak-stats)
+
+</div>
+
+---
+### Activity Graph
+ 
+[![Shivank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivank-1011&theme=react-dark&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 
