@@ -36,6 +36,8 @@
   </div>
 
 ---
+
+
 ### Github Profile Summary Card:
 
 <div align="center">
@@ -74,7 +76,7 @@
 
 ---
 
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="250" width="250" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 
 <div id="tech-stack" style="display: flex; flex-direction: column;">
 
