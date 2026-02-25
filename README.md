@@ -60,6 +60,20 @@
 
 ---
 
+### 💻 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/shivank_1011?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+### 🏆 LeetCode Badges Showcase
+
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="120" alt="50 Days Badge 2025"/>
+</p>
+
+---
+
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 
 <div id="tech-stack" style="display: flex; flex-direction: column;">
@@ -68,64 +82,64 @@
 <!-- <h1 align="left">Tech Stack 📟</h1> -->
 <table align="left">
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="92">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
       <br>React
     </td>
-    <td align="center" width="96">
+    <td align="center" width="92">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="92">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" />
       <br>JavaScript
     </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="Nodejs" />
+     <td align="center" width="92">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="60" height="60" alt="Nodejs" />
       <br>Nodejs
       </td>
-     <td align="center" width="96">
+     <td align="center" width="92">
         <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/Express.png" alt="express" width="48" height="48" />
       <br>Express
     </td>
-     <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="typescript" />
+     <td align="center"  width="92">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60" alt="typescript" />
       <br>TypeScript
     </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+     <td align="center" width="92">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" />
       <br>MySQL
     </td>
   </tr>
   <tr>
-      <td align="center" width="96">
+      <td align="center" width="92">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
-     <td align="center" width="96">
-        <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/react-native-1.svg" width="70" height="70" alt="React Native" />
+     <td align="center" width="92">
+        <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/react-native-1.svg" width="60" height="60" alt="React Native" />
       <br>Native
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="92">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
-      <td align="center" width="96">
+      <td align="center" width="92">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="92">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
-     <td align="center" width="96">
+     <td align="center" width="92">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="icon" width="48" height="48" />
       <br>Figma
     </td>
-     <td align="center" width="96">
-        <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/icons8-prisma-orm-240.png" alt="Prisma" width="65" height="65" />
+     <td align="center" width="92">
+        <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/icons8-prisma-orm-240.png" alt="Prisma" width="60" height="60" />
       <br>Prisma
     </td>
     </tr>
